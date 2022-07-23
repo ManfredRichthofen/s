@@ -1,4 +1,7 @@
 # EXCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
 custom-branding
 premium-heading
+return-youtube-dislike
+sponsorblock
+enable-wide-searchbar
 # INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
